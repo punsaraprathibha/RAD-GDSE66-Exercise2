@@ -1,0 +1,14 @@
+{
+  "name": "rad-gdse66-exercise2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node dist/app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.12.11"
+  }
+}
